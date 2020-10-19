@@ -58,11 +58,11 @@ body {
   margin-top: 35px;
   text-align: center;
 }
-.bsod .nav .link {
+.bsod .link {
   text-decoration: none;
   padding: 0 9px 2px 8px;
 }
-.bsod .nav .link:hover, .bsod .nav .link:focus {
+.bsod .link:hover, .bsod .link:focus {
   background: #aaaaaa;
   color: #0414a7;
 }
